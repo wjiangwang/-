@@ -1,0 +1,9 @@
+*{box-sizing:border-box;}
+*{margin: 0;padding: 0}
+.token.selector,
+.token.selector,
+.token.property,
+.token.function{
+    color: black ;
+    
+}
